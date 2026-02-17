@@ -6,7 +6,7 @@ A Progressive Web App (PWA) for tracking daily calorie and carbohydrate intake.
 
 - 📅 Monthly calendar view with color-coded days
 - 🎯 Customizable daily targets for calories and carbs
-- �� History view to review past entries
+- 📊 History view to review past entries
 - ✏️ Edit and delete daily entries
 - 📱 Mobile-first responsive design
 - 💾 Export and import data
